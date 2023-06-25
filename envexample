@@ -1,0 +1,8 @@
+PORT=5000
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=admin
+DB_PASSWORD=izausadmin
+DB_NAME=products
+ACCESS_TOKEN_SECRET=belajarapi-express
+REFRESH_TOKEN_SECRET=belajarapi-express-refresh
